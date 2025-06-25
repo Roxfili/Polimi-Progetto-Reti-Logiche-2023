@@ -1,9 +1,9 @@
 # Progetto Reti Logiche aa 2022-2023
 ## Descrizione generale
 
-La specifica della “ Prova Finale (Progetto di Reti Logiche) ” per l’Anno Accademico
+La specifica della Prova Finale (Progetto di Reti Logiche) per l’Anno Accademico
 2022/2023 chiede di implementare un modulo HW (descritto in VHDL) che si interfacci con
-una memoria e che rispetti le indicazioni riportate nella seguente specifica.
+una memoria e che rispetti le indicazioni riportate.
 Ad elevato livello di astrazione, il sistema riceve indicazioni circa una locazione di memoria,
 il cui contenuto deve essere indirizzato verso un canale di uscita fra i quattro disponibili.
 Le indicazioni circa il canale da utilizzare e l’indirizzo di memoria a cui accedere vengono
